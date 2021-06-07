@@ -419,13 +419,13 @@ a:focus {
 
 .page-header a::after {
     position: absolute;
-    content: "/";
+    content: "sdssdsdsdds/";
     width: 8px;
     height: 8px;
     top: -2px;
     right: -7px;
     text-align: center;
-    color: #343148;
+    color: #ffffff;
 }
 
 .page-header a:last-child::after {
